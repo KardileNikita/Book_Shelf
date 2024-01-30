@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dv8400fc2/image/upload/v1695732180/E-commerce/bookshelf_tggh2z.png" width="500" alt="logo"/>
   
-  # [E-commerce website for book readers](https://book-shelf-v1.vercel.app/)
+  # [E-commerce website for book readers](https://book-shelf-main.vercel.app/)
     
 </div>
 
 ## **How to install the bookshelf and run locally ?**
 
 ```
-$ git clone https://github.com/Pallavi-Langhe/book_shelf.git
+$ git clone https://github.com/KardileNikita/Book_Shelf
 $ cd book_shelf
 $ npm install
 $ npm start
